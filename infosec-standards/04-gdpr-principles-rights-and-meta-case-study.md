@@ -2,41 +2,41 @@
 
 ## 1. The 7 Core Principles of GDPR
 
-The General Data Protection Regulation (GDPR) is built upon seven foundational pillars that every organization handling EU citizens' data must follow:
+The General Data Protection Regulation (GDPR) is built upon seven foundational principles that guide how organizations handle personal data:
 
-1. **Lawfulness, Fairness, and Transparency** — data must be collected through legal means, and the process must be clearly explained to users
-2. **Purpose Limitation** — data should only be collected for a specific, stated purpose and not used for unrelated activities later
-3. **Data Minimization** — organizations should only collect the minimum amount of data required to perform the task
-4. **Accuracy** — all held data must be correct and kept up to date
-5. **Storage Limitation** — personal data should not be kept longer than is strictly necessary for the purpose it was collected
-6. **Integrity and Confidentiality (Security)** — data must be kept secure from unauthorized access or accidental loss
-7. **Accountability** — organizations must be able to prove that they are following all GDPR rules
+1. **Lawfulness, Fairness, and Transparency** — personal data must be processed lawfully, fairly, and transparently
+2. **Purpose Limitation** — data should be collected for specific, explicit purposes and not used for incompatible purposes later
+3. **Data Minimization** — organizations should only collect data that is adequate, relevant, and necessary for the stated purpose
+4. **Accuracy** — personal data should be accurate and kept up to date where necessary
+5. **Storage Limitation** — personal data should not be kept longer than necessary for its purpose
+6. **Integrity and Confidentiality (Security)** — data should be protected against unauthorized or unlawful processing, loss, destruction, or damage
+7. **Accountability** — organizations must be able to demonstrate compliance with GDPR
 
-## 2. Rights Granted to Individuals (EU Citizens)
+## 2. Rights Granted to Individuals
 
-GDPR provides individuals with significant control over their digital footprint through several key rights:
+GDPR provides individuals with significant control over their personal data through several key rights:
 
-- **Right to Access** — people can ask a company exactly what data is being held about them
-- **Right to Rectification** — users have the right to have incorrect or incomplete information corrected
-- **Right to Erasure (Right to be Forgotten)** — individuals can request the total deletion of their data
-- **Right to Restrict Processing** — individuals can limit how a company uses their data, even if they don't want it deleted
-- **Right to Data Portability** — people can request their data in a usable format to move it from one service provider to another
-- **Right to Object** — users can stop their data from being used for profiling or direct marketing
-- **Rights Related to Automated Decision-Making** — protection against unfair decisions made solely by AI or automated profiling
+- **Right to Access** — people can request access to their personal data and information about how it is processed
+- **Right to Rectification** — individuals can request correction of inaccurate or incomplete personal data
+- **Right to Erasure (Right to be Forgotten)** — individuals can request deletion of personal data in situations covered by the regulation; this is not an absolute right
+- **Right to Restrict Processing** — individuals can request that processing of their personal data be restricted in certain circumstances
+- **Right to Data Portability** — individuals can receive certain personal data in a structured, commonly used, machine-readable format and transmit it to another controller where applicable
+- **Right to Object** — individuals can object to certain processing, including direct marketing and some profiling activities
+- **Rights Related to Automated Decision-Making** — Article 22 provides protections in specific circumstances involving solely automated decisions that produce legal or similarly significant effects
 
-## 3. Case Study: GDPR and Meta (Facebook)
+## 3. Case Study: GDPR and Meta
 
-Facebook (Meta) serves as a primary example of GDPR enforcement due to its handling of billions of users' data.
+Meta has been the subject of multiple GDPR enforcement actions involving areas such as data protection, children's privacy, and international data transfers.
 
-**Core Violations:** between 2019 and 2022, Meta was fined multiple times for using personal data without clear user consent, particularly for targeted advertising — a direct violation of the principles of transparency and consent.
+**Key enforcement themes:** Meta's GDPR cases have addressed different legal and compliance issues over time. These should not be treated as one single violation involving targeted-advertising consent.
 
 **Major Penalties:**
 
 | Year | Fine | Reason |
 |---|---|---|
-| 2021 | €265 million | A data leak involving over 500 million users |
-| 2022 | €405 million | Instagram failed to properly protect the data of minors |
-| 2023 | €1.2 billion (record fine) | Illegal transfer of European users' data to servers in the United States |
+| 2021 | €265 million | Irish DPC enforcement related to the exposure of personal data of more than 500 million Facebook users
+| 2022 | €405 million | Instagram enforcement concerning the processing and protection of children's data
+| 2023 | €1.2 billion | Irish DPC enforcement concerning transfers of European users' personal data to the United States and the safeguards used for those transfers
 
 ---
-*Source: coursework notes (AI-compiled study notes), International and Federal INFOSEC Standards module.*
+*My notes from the International and Federal INFOSEC Standards module.*
