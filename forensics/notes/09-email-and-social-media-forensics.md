@@ -178,4 +178,4 @@
 - **Tool proficiency**: investigators must be skilled with forensic tools for data acquisition, analysis, and recovery
 
 ---
-*Source: coursework notes (AI-compiled study notes), CHFI Email and Social Media Forensics module.*
+*My notes from the Email and Social Media Forensics module.*
