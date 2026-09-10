@@ -303,4 +303,4 @@ Amazon GuardDuty is a threat detection service that continuously monitors AWS en
 - **Discovery:S3/AnomalousBehavior** — an API commonly used to discover S3 buckets (`ListBuckets`) was invoked in an unusual way, typical of the reconnaissance phase of an attack (low severity)
 
 ---
-*Source: coursework notes (AI-compiled study notes), Cloud Forensics module. The source material split AWS content across two modules (fundamentals, then forensic acquisition/investigation); a later module explicitly referenced the earlier fundamentals rather than repeating them, so both are combined here into one AWS-focused file.*
+*My notes from the AWS Fundamentals and Forensics module.*
