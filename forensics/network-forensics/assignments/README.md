@@ -8,5 +8,5 @@
 
 ## Notes
 
-- This is Awais's own submitted coursework.
+- These are my network forensics assignments.
 - The assignment references `NF_Challenge_01/02/03.pcap` as its evidence files — those specific pcaps weren't included in the upload. The pcap files that were included (`FTP- Unknown-56.pcap`, `Noobs Keylogger.pcap`, `icmp_camp.pcapng`, `twotomany.pcap`) are separate reference/practice captures, not this assignment's evidence — see `../pcap/`.
