@@ -192,4 +192,4 @@ This technique gives investigators a more complete and reliable picture of the e
 - **Behavioral Indicators** — patterns or habits in their actions that help investigators identify, profile, and track them
 
 ---
-*Source: coursework notes (AI-compiled study notes), Forensic Psychology for Digital Forensics & Cyber Security module.*
+*My notes from the Forensic Psychology for Digital Forensics & Cyber Security module.*
