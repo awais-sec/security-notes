@@ -1,6 +1,6 @@
 # Technical Analysis: Forensic Investigation Capabilities of Microsoft Azure
 
-*Study notes on a published research paper examining Azure's forensic investigation capabilities (journal reference code: electronics-13-04546). This is a summary of literature Awais read for coursework, not original research.*
+*Study notes on a published research paper examining Azure's forensic investigation capabilities (journal reference code: electronics-13-04546). These are my notes from literature reviewed for coursework, not original research.*
 
 ## 1. Introduction to Cyber Forensics
 
@@ -126,4 +126,4 @@
 - Organizations must adopt proactive monitoring, regular audits, and continuous training to enhance forensic readiness
 
 ---
-*Source: notes on a published journal article (electronics-13-04546), read as part of coursework — not Awais's own research or findings.*
+*My notes from the published paper studied for the coursework.*
