@@ -173,4 +173,3 @@ Demixing often relies on human error or software flaws rather than breaking the 
 - **KYC and Regulation** — a key strategy for investigators is following the "money trail" until it reaches regulated exchanges, where identity verification (Know Your Customer) may reveal the suspect's real-world identity
 
 ---
-*Source: coursework notes (AI-compiled study notes), Investigating Cryptocurrencies module.*
