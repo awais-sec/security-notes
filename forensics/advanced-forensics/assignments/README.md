@@ -15,5 +15,5 @@ Coursework submitted for Advanced Digital Forensics, presented to Kaukab Jamal Z
 
 ## Notes
 
-- These are Awais's own submitted coursework, attributed as such in each file's header.
+- These are my advanced forensics assignments.
 - Numbering follows the assignment numbers used in the original submissions where available; the SQL Server logging assignment was unnumbered in the source and is filed as #4 to preserve sequence.
