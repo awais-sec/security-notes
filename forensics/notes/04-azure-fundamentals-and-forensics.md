@@ -98,4 +98,4 @@ az snapshot create --resource-group Production-group --name ubuntudisksnap --sou
 - Acquisition must follow a structured, forensically sound methodology
 
 ---
-*Source: coursework notes (AI-compiled study notes), Cloud Forensics module.*
+*My notes from the Microsoft Azure Fundamentals and Forensics module.*
