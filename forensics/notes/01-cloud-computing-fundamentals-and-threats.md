@@ -126,4 +126,4 @@ Responsibilities are shared between the subscriber and the service provider to p
 | Cloud Malware Injection | Injecting a malicious service or VM into the cloud infrastructure to eavesdrop or steal data |
 
 ---
-*Source: coursework notes (AI-compiled study notes), Cloud Forensics module.*
+*My notes from the Cloud Forensics module.*
