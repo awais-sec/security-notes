@@ -226,4 +226,4 @@ Integrate with Cloud Logging for security incident analysis. Filters for investi
 - **Legal/Procedural**: adhere to proper authorization and chain of custody in cloud investigations
 
 ---
-*Source: coursework notes (AI-compiled study notes), Cloud Forensics module.*
+*My notes from the Google Cloud Fundamentals and Forensics module.*
