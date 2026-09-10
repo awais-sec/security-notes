@@ -224,4 +224,4 @@ A medium-sized enterprise scenario where a phishing email led to a ransomware at
 **Analogy for stepwise forensics**: think of cloud forensics as investigating a bank robbery in a digital building — the methodology is the police procedure (first cordoning off the area by isolating the VM, then taking photographs of the scene via snapshots, then checking the visitor logs via activity logs), while the case study is the detective's final report explaining exactly how the thief got in (phishing), which vault they opened (privilege escalation), and what they took before the alarms went off.
 
 ---
-*Source: coursework notes (AI-compiled study notes), Cloud Forensics module.*
+*My comparison notes from the Cloud Forensics module.*
