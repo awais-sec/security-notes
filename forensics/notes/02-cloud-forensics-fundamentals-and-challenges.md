@@ -130,4 +130,4 @@ Challenges are categorized based on the NIST Cloud Computing Forensic Science Ch
 - Concerns over the competence and trustworthiness of all parties involved
 
 ---
-*Source: coursework notes (AI-compiled study notes), Cloud Forensics module. The source material presented this content twice across two modules as a recap; deduplicated here into one file, consistent with how overlapping notes have been handled elsewhere in this series.*
+*My notes from the Cloud Forensics module.*
