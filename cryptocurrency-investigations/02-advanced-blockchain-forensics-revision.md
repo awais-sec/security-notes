@@ -2,7 +2,7 @@
 
 ## Part 1: Cross-Chain, Stablecoin, and Multi-Chain Forensics
 
-Practical forensic logic required to trace activity across different blockchains, with specific emphasis on stablecoins, the Solana network, and cross-chain messaging protocols.
+Practical forensic logic required to trace activity across different blockchains, with specific emphasis on stablecoins, the Solana network, & cross-chain messaging protocols.
 
 ### 1. USDT and Cross-Chain Bridges
 
@@ -365,4 +365,3 @@ The practical use of web-based explorers and specialized graphical software to v
 - **Preservation** — always record the explorer used, the date/time of access, and provide screenshots or raw data exports
 
 ---
-*Source: coursework revision notes (AI-compiled study notes), Investigating Cryptocurrencies module.*
