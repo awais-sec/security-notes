@@ -79,4 +79,4 @@ This case illustrates the Respond and Recover functions in practice:
 - **Post-Incident Review** — the organization conducts a review to ask "Why did the misconfiguration happen?" This leads to a new change-management process where every cloud change requires peer review and approval, alongside regular security audits.
 
 ---
-*Source: coursework notes (AI-compiled study notes), International and Federal INFOSEC Standards module. NIST CSF content originally appeared twice across two source lecture parts at different levels of detail; merged into one section here.*
+*My notes from the INFOSEC Fundamentals and NIST CSF module.*
